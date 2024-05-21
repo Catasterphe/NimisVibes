@@ -2,6 +2,7 @@
  Buttplug.io support for https://keyaura.itch.io/nimis
 
 # Requirements:
+- Only tested on **PREALPHA 1.0.3**
 - https://intiface.com/central/
 - A device that can vibrate and is supported by buttplug.io. [Supported Devices](https://iostindex.com/?filter0Availability=Available,DIY&filter1ButtplugSupport=4&filter2Features=OutputsVibrators)
 
